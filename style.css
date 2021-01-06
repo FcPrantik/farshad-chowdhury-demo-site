@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.headersection {
+    max-width: 100%;
+    height: 700px;
+    background-color: #f8ba9d;
+}
+
+.aboutsection {
+    max-width: 100%;
+    height: 500px;
+    margin-bottom: 100px;
+}
+
+.workingsection {
+    max-width: 100%;
+    height: 814px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #F8F9FC;
+    text-align: center;
+}
+
+.workingsection h2 {
+    margin: 80px;
+}
+
+.testimonialsection {
+    width: 100%;
+    height: 814px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #b9ffff59;
+    text-align: center;
+}
+
+.testimonialsection h2 {
+    margin: 10px;
+}
+
+.Half-Width {
+    margin-top: 80px;
+    margin-left: 10%;
+    padding-left: 100px;
+    padding-right: 150px;  
+    width: 35%;
+    float: left;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    line-height: 100%;
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    line-height: 100%;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    line-height: 100%;
+    padding-top: 20px;
+}
+
+h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FF8367;
+}
+h5 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 64px;
+    color: #fff;
+    position: absolute;
+    left: 30%;
+    bottom: 42%;
+}
+
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 10px;
+}
+
+.name {
+    color: #fff;
+}
+
+.latest {
+    color: #FF8367;
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    background-color: #FF8367 ;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+img {
+    width: 450px;
+}
+.projects {
+    background-color: #fff;
+    width: 370px;
+    height: 374px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 6px 6px 20px #e2e2e2;
+    display: inline-block;
+    margin: 20px;
+}
+.projects img {
+    width: 340px;
+}
+
+.testimonial {
+    width: 300px;
+    text-align: center;
+    display: inline-block;
+    margin: 20px;
+}
+.testimonial img {
+    width: 200px;
+}
+
+.inquirysection {
+    width: 100%;
+    height: 450px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+    
+}
+
+.inquirysection img {
+    width: 900px;
+    margin-left: 25%;
+}
+
+.inquirysection button {
+    position: absolute;
+    left: 60%;
+    bottom: 45%;
+}
